@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553468589379",
+    "project_id": "chefme-636c1",
+    "storage_bucket": "chefme-636c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553468589379:android:984964b8d33e79fd466bf6",
+        "android_client_info": {
+          "package_name": "com.example.chefme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-yQIBDjY8QQYotqhOHFgG4YFhc2CYgRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553468589379:android:3eff34ea1d9faa8a466bf6",
+        "android_client_info": {
+          "package_name": "com.example.chefmeprime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-yQIBDjY8QQYotqhOHFgG4YFhc2CYgRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
