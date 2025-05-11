@@ -153,8 +153,7 @@ class _SignUpState extends State<SignUp> {
                     InkWell(
                         child: Text(
                           "sign in",
-                          style: AppStyle.textStyle.copyWith(
-                          ),
+                          style: AppStyle.textStyle
                         ),
                         onTap: widget.tap)
                   ],
